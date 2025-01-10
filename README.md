@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I’m a **Frontend Developer** passionate about cr
 ---
 
 ## 💻 About Me  
-- 🌍 **Location**: Bangladesh  
+- 🌍 **Location**:Dhaka, Bangladesh  
 - 🎓 **Education**: B.Sc. in Computer Science  
 - 🛠️ **Skills**: React, JavaScript, Tailwind CSS, Firebase, HTML, CSS  
 - 🌱 **Currently Learning**: Advanced frontend technologies and enhancing design skills  
